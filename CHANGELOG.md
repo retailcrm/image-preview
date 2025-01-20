@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/retailcrm/image-preview/compare/v1.0.0...v1.0.1) (2025-01-20)
+
+
+### Fixes
+
+* Missing files field in package.json ([3bfcdbd](https://github.com/retailcrm/image-preview/commit/3bfcdbd1ecfb22d9c64c805ca6f2108469343642))
+
 ## 1.0.0 (2025-01-20)
 
 

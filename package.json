@@ -2,7 +2,7 @@
   "name": "@retailcrm/image-preview",
   "type": "module",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Util for making URLs for processed by image worker images",
   "exports": {
     "types": "./dist/index.d.ts",
