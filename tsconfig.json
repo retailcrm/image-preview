@@ -1,0 +1,18 @@
+{
+  "extends": "./tsconfig.basic.json",
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "src/**/*.ts",
+    "tests/**/*.ts",
+    "tests/**/*.vue",
+    "types/**/*.ts"
+  ]
+}

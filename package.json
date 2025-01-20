@@ -1,0 +1,33 @@
+{
+  "name": "@retailcrm/image-preview",
+  "type": "module",
+  "license": "MIT",
+  "version": "0.0.0",
+  "description": "Util for making URLs for processed by image worker images",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.cjs",
+    "default": "./dist/index.mjs"
+  },
+  "repository": "git@github.com:retailcrm/image-preview.git",
+  "author": "RetailDriverLLC <integration@retailcrm.ru>",
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/node": "^22.10.7",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "typescript": "~5.5.4",
+    "typescript-eslint": "^8.19.0",
+    "vite": "^6.0.9",
+    "vite-plugin-dts": "^4.5.0"
+  },
+  "packageManager": "yarn@4.6.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "vite build",
+    "eslint": "eslint src"
+  }
+}
