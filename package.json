@@ -14,6 +14,7 @@
     "dist",
     "LICENSE"
   ],
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:retailcrm/image-preview.git",
   "author": "RetailDriverLLC <integration@retailcrm.ru>",
   "devDependencies": {
