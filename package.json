@@ -10,6 +10,10 @@
     "require": "./dist/index.cjs",
     "default": "./dist/index.mjs"
   },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
   "repository": "git@github.com:retailcrm/image-preview.git",
   "author": "RetailDriverLLC <integration@retailcrm.ru>",
   "devDependencies": {
