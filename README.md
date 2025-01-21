@@ -74,11 +74,11 @@ console.log(preview([], url))
 Для использования функции в своем проекте установите зависимости и импортируйте модуль:
 
 ```bash
-npm install
+npm i --save @retailcrm/image-preview
 ```
 
 Или, если используется `yarn`:
 
 ```bash
-yarn install
+yarn add @retailcrm/image-preview
 ```
